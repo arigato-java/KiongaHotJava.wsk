@@ -1,0 +1,13 @@
+{
+	"name":"KiongaHotJava.wsk",
+	"description":"Kionga HotJava OpenWhisk implementation",
+	"version":"2038.0.0",
+	"license":"Glide",
+	"main":"hotjava.js",
+	"repository":{"type":"git","url":"https://github.com/arigato-java/KiongaHotJava.wsk.git"},
+	"dependencies":{
+		"request":"*",
+		"twitter":"*"
+	}
+}
+
